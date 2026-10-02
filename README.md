@@ -54,7 +54,7 @@ and the [frameworks used](activities/tools.md).
 
 ## Courseware
 
-- [Trainer Slides (PPTX)](<courseware/Achieving Sales Goals with Customer-Centric Selling Techniques.pptx>) · [PDF](<courseware/Achieving Sales Goals with Customer-Centric Selling Techniques.pdf>)
+- [Trainer Slides (PPTX)](<courseware/Achieving Sales Goals with Customer-Centric Selling Techniques-v1.pptx>) · [PDF](<courseware/Achieving Sales Goals with Customer-Centric Selling Techniques-v1.pdf>)
 - [Learner Guide (DOCX)](<courseware/LG-Achieving Sales Goals with Customer-Centric Selling Techniques.docx>) · [PDF](<courseware/LG-Achieving Sales Goals with Customer-Centric Selling Techniques.pdf>)
 - [Lesson Plan (DOCX)](<courseware/LP-Achieving Sales Goals with Customer-Centric Selling Techniques.docx>) · [PDF](<courseware/LP-Achieving Sales Goals with Customer-Centric Selling Techniques.pdf>)
 - [Activities](activities/README.md)
